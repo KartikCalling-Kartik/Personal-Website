@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(51, 28, 65);
+    color: rgb(112, 155, 112) ;
+    font-size: medium;
+    font-family: sans-serif;
+    text-align: center;
+    border-top: 70px;
+    border-bottom: 70px;
+    border-left:70px;
+    border-right: 70px;
+    border-style: groove;
+    border-top-color: rgb(3, 33, 78);
+    border-bottom-color: rgb(3, 33, 78);
+    border-left-color: rgb(3, 33, 78);
+    border-right-color: rgb(3, 33, 78);
+
+}
+.fitimg
+{
+width: 200px; /* Sets fixed width */
+  height: auto; /* Automatically adjusts height to prevent stretching */
+  border-radius: 25%; /* Optional: Makes a square image perfectly circular */
+
+}
+.chngtext
+{
+    color: rgb(228, 212, 182);
+    font-weight: bold;
+    font-family: cursive;
+    font-size: large;
+}
